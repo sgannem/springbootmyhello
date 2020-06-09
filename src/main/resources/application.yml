@@ -1,0 +1,7 @@
+server:
+  port: 9081
+  servlet.contextPath: /hello-service
+spring:
+ main:
+  banner-mode: "console"
+banner.location: banner.txt
